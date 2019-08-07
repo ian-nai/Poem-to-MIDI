@@ -22,7 +22,7 @@ MyMIDI.addTempo(track, time, tempo)
 prondict = cmudict.dict()
 
 
-print " Please enter the names of the text file you'd like to midify in the format [filename].txt"
+print " Please enter the name of the text file you'd like to midify in the format [filename].txt"
 
 text1 = raw_input("Filename: ")
             # also set the previous value to i, so the next iteration can check against p
